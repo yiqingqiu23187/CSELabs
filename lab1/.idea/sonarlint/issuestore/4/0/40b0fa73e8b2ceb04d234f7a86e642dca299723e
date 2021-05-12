@@ -1,0 +1,25 @@
+
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(’£äß8¼æ˜ŠÜ.
+]	java:S125L"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÝÉº‰Ü.
+Y
+java:S1128"7Remove this unused import 'java.io.ObjectOutputStream'.(é»Óºûÿÿÿÿ8“ˆª”Ò.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òþÿÿÿÿ8â­›“Ñ.
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8“ˆª”Ò.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï™îÚûÿÿÿÿ8ªºŒŠÜ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(È—ð½øÿÿÿÿ8¼ã¿‰Ü.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö‰¡üÿÿÿÿ8Üë‰Ü.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÓÏ´ûÿÿÿÿ8âºê‰Ü.
+Q
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8“ˆª”Ò.
+X	java:S125="<This block of commented-out lines of code should be removed.(Óã¡â8ÝÉº‰Ü.
+S
+java:S1128"6Remove this unused import 'java.io.ObjectInputStream'.(Éæéœ8“ˆª”Ò.
+M
+java:S1128"0Remove this unused import 'Expection.ErrorCode'.(½ã¶•8Ð–ˆÏÕ.
+M
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ýà ãÒ.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(çßºøÿÿÿÿ8š’ŠÜ.

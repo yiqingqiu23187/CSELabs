@@ -1,0 +1,11 @@
+
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8õú‰Ïß.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ëÑÿñşÿÿÿÿ8õú‰Ïß.
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(ı¤Áúÿÿÿÿ8õú‰Ïß.
+N
+java:S1068",Remove this unused "leftFork" private field.(”Â“ªúÿÿÿÿ8õú‰Ïß.
+J
+java:S1068"-Remove this unused "rightFork" private field.(çíø”8õú‰Ïß.

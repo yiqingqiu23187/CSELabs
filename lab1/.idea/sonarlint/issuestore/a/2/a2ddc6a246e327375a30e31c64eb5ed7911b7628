@@ -1,0 +1,25 @@
+
+7
+java:S1170"!Make this final field static too.(Ÿ£à
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òşÿÿÿÿ8Ì™“Ñ.
+n	java:S116"TRename this field "MOVE_TAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¼Çúÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(’²Ëÿÿÿÿÿ
+n	java:S116"TRename this field "MOVE_HEAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’²Ëÿÿÿÿÿ
+4
+java:S2176"Rename this class.(şô÷Óûÿÿÿÿ8’åş“Ñ.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8î‚Ô.
+J
+java:S1948"(Make "fileId" transient or serializable.(“ÑœÊşÿÿÿÿ8Å¤Ü”Ò.
+J
+java:S1948"(Make "logicBlocks" private or transient.(ÿå†¢ÿÿÿÿÿ8¬¦…”Ò.
+˜
+java:S1319"vThe type of the "logicBlocks" object should be an interface such as "List" rather than the implementation "ArrayList".(‚ºûéûÿÿÿÿ8¬¦…”Ò.
+?	java:S131—""Add a default case to this switch.(Ù¤‘ã8šœ˜ÈÕ.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ğ­¨÷8¬¦…”Ò.
+i	java:S116"TRename this field "MOVE_CURR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ£à
+<
+java:S1170"!Make this final field static too.(ô¼Çúÿÿÿÿ
+J	java:S108s")Either remove or fill this block of code.(„Ãòüÿÿÿÿ8ÅŸïÎÕ.
